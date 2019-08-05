@@ -1,0 +1,6 @@
+version: 0.0
+phases:
+  install:
+    commands:
+      - npm install
+      - npm test
