@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/TCW417/simpleAwsApp#readme",
   "devDependencies": {
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "aws-sdk-mock": "^4.5.0",
     "babel-eslint": "^10.0.2",
     "babel-preset-env": "^1.7.0",
